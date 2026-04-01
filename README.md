@@ -12,13 +12,19 @@ De keuzes van de speler bepalen hoe het verhaal verder gaat en hoe het spel eind
 
 ---
 
+### Problemen oplossen
+
+Als het programma niet start, controleer dan of je in de juiste map zit.  
+Gebruik het commando cd om naar de map te gaan waar het spel staat.  
+
+Controleer vervolgens met ls of het bestand aanwezig is.  
+
+Als het bestand zichtbaar is, kun je het programma starten met:
+
 ## ▶️ Hoe starten
 
 ```bash
 node src/adventure.js
-```
-
----
 
 ## 🛠️ Gebruikte technieken
 
